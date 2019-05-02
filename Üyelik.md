@@ -1,4 +1,4 @@
-### DESTEK PATENT ONLİNE PLATFORMU ÜYELİK İŞLEMLERİ
+### ÜYELİK İŞLEMLERİ
 
 Destek Patent Online http://www.destekpatent.com.tr/ adresi üzerinden erişebildiğimiz bir platformdur. Sinai haklar kapsamında verdiğimiz hizmetlerimiz, sektörde ki son gelişmeler gibi portal işlevleri dışında müşterilerin firma başvurularıyla ilgili durum raporu alabilecekleri bir uygulamadır.
 
