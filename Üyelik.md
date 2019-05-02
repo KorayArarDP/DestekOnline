@@ -9,3 +9,6 @@ Destek Patent Online http://www.destekpatent.com.tr/ adresi üzerinden erişebil
 Başlangıç olarak sitemizin ana sayfasında sağ üst köşeden ‘Üye Girişi’ tıklanarak üyelik işlemleri için gerekli bilgilerin isteneceği sayfaya yönleneceksiniz.
 
 ![destekonline-image-1](do1.png)
+
+İkinci aşama olarak karşınızda çıkan ekranda daha önceden kayıt olunmuş ise giriş ‘Eposta’ ve ‘Şifre’ alanları ile giriş yapılabilir. Eğer ilk defa sisteme kayıt olunacaksa ‘Üye Ol’ linkine tıklamalıyız.
+
