@@ -40,7 +40,7 @@ Son adım olarak kullanıcı giriş yaptıktan sonra sol menü kısmında ‘Fir
 
 ![destekonline](Görsel/do7.png)
 
-Girilen firma bilgileri Alfasoft üzerinde Sipariş Köprüsü Giriş ve Düzenleme(6.11.1) kısmından ‘İnternet Şubesi Müşterisi’ tabından Hasan Gedik Bey tarafından onaylanmaktadır.
+Girilen firma bilgileri Alfasoft üzerinde Sipariş Köprüsü Giriş ve Düzenleme(6.11.1) kısmından ‘İnternet Şubesi Müşterisi’ sekmesinde Hasan Gedik Bey tarafından onaylanmaktadır.
 
 Anlatılan bütün işlemlerin yapılması sonucu müşteri bağlı olduğu firma başvuruları ile ilgili raporu  ‘Firma Durum Raporu’ kısmından alabilir halde olacaktır.
 
