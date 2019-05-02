@@ -20,3 +20,27 @@ Başlangıç olarak sitemizin ana sayfasında sağ üst köşeden ‘Üye Giriş
 ![destekonline](Görsel/do3.png)
 
 Karşımıza gelen ekranda üyelik işlemleri için gerekli bilgilerin girişini yapıyoruz ve ‘Kaydet’ e basıyoruz. Mail adresine bir adet aktivasyon maili gelecektir.
+
+---
+
+![destekonline](Görsel/do4.png)
+
+![destekonline](Görsel/do5.png)
+
+Gelen mailin içerisinde bulunan linke tıklanılması sonucu üyenin hesabı aktif edilmiş olacaktır. Burada daha önceden belirtildiği üzere kullanıcının kendisine tanımlanan ve çalıştığı iş yerinde kullandığı bir mail adresi olması tercih sebebidir. Mailin kendisine ait olmasının teyidi bu linke tıklaması ile sağlanabilir. Güvenlik amaçlı bu işlemin karşı taraftan yapılmasının talep edilmesi gereklidir.
+Bu işlemi yaptıktan sonra kullanıcıyı aşağıdaki ekran karşılayacaktır.
+
+![destekonline](Görsel/do6.png)
+
+Burada kullanıcı sağ üstte bulunan ‘Üye Girişi’ kısmından daha önce göstermiş olduğumuz Login.aspx sayfasına yönlendirilir, aktivasyon işlemiyle artık sisteme giriş yapabilir.
+
+---
+
+Son adım olarak kullanıcı giriş yaptıktan sonra sol menü kısmında ‘Firma Bilgileri’ bağlantısı ile aşağıda görebileceğimiz form üzerinden ilişkili firma bilgilerinin girişini yapar.
+
+![destekonline](Görsel/do7.png)
+
+Girilen firma bilgileri Alfasoft üzerinde Sipariş Köprüsü Giriş ve Düzenleme(6.11.1) kısmından ‘İnternet Şubesi Müşterisi’ tabından Hasan Gedik Bey tarafından onaylanmaktadır.
+
+Anlatılan bütün işlemlerin yapılması sonucu müşteri bağlı olduğu firma başvuruları ile ilgili raporu  ‘Firma Durum Raporu’ kısmından alabilir halde olacaktır.
+
