@@ -12,3 +12,6 @@ Başlangıç olarak sitemizin ana sayfasında sağ üst köşeden ‘Üye Giriş
 
 İkinci aşama olarak karşınızda çıkan ekranda daha önceden kayıt olunmuş ise giriş ‘Eposta’ ve ‘Şifre’ alanları ile giriş yapılabilir. Eğer ilk defa sisteme kayıt olunacaksa ‘Üye Ol’ linkine tıklamalıyız.
 
+![destekonline](Görsel/do2.png)
+
+![destekonline](Görsel/do3.png)
